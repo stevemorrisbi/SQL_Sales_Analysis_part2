@@ -6,5 +6,5 @@
 
 ----
 #### A commented SQL script can be found in this repository.
-This project demonstrates use cases for -
-CTE's, CASE, ROW_NUMBER, ROUND, MIN, SUM, CONVERT, COUNT, GROUP BY, ORDER BY, PARTITION BY.
+#### This project demonstrates use cases for -
+#### CTE's, CASE, ROW_NUMBER, ROUND, MIN, SUM, CONVERT, COUNT, GROUP BY, ORDER BY, PARTITION BY.
